@@ -1,0 +1,5 @@
+name: balbWelcomeMessage
+author: Balbucio
+version: 1.0
+main: me.balbucio.welcome.Main
+description: Mensagens de BemVindo.
